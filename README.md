@@ -8,3 +8,10 @@ October 12, 2012
 
 Plans: 3D sandwich box for Steve's PBJ
 
+October 18, 2012
+- Prototype clips made and remade- RepRap parts don't flex well!
+
+October 21, 2012
+- 3D sandwich box full print in progress
+- VEX motor to LEGO brick interface in CAD and ready for print
+
